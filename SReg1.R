@@ -6,6 +6,7 @@
 #
 #    https://shiny.posit.co/
 #
+rsconnect::writeManifest()
 
 library(shiny)
 library(bslib)
